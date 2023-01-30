@@ -1,7 +1,7 @@
 ![logo](https://github.com/P-I-K-U/P-I-K-U/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm SURAJ YADAV</h1>
 <h3 align="center">A passionate software developer from Lucknow</h3>
-<image align="right" alt="banner" width="400" src = "https://github.com/P-I-K-U/P-I-K-U/blob/main/full-stack-development.gif">
+<image align="right" alt="banner" width="400" src = "https://github.com/P-I-K-U/P-I-K-U/blob/main/android-app2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-i-k-u&label=Profile%20views&color=0e75b6&style=flat" alt="p-i-k-u" /> </p>
 
