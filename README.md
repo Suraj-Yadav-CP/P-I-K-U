@@ -2,15 +2,17 @@
 <h1 align="center">Hi 👋, I'm SURAJ YADAV</h1>
 <h3 align="center">A passionate software developer from Lucknow</h3>
 <image align="right" alt="banner" width="400" src = "https://github.com/P-I-K-U/P-I-K-U/blob/main/android-app2.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-i-k-u&label=Profile%20views&color=0e75b6&style=flat" alt="p-i-k-u" /> </p>
 
 - 📫 How to reach me **ksurajyadav2021@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UQxAbEO-iDxFGFTHquwMTlmW6olfLzsz/view?usp=share_link](https://drive.google.com/file/d/1UQxAbEO-iDxFGFTHquwMTlmW6olfLzsz/view?usp=share_link)
 
+- ⚡ Fun fact **I am very fast⚡️**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@ksurajyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ksurajyadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suraj-yadav-cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-yadav-cp" height="30" width="40" /></a>
 </p>
 
