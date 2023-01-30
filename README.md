@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SURAJ YADAV</h1>
 <h3 align="center">A passionate software developer from Lucknow</h3>
-<image align="right" alt="banner" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw2yVVoatIA9BbPd9BnuA-e5&ust=1675153025907000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCa0brt7vwCFQAAAAAdAAAAABAw">
+<image align="right" alt="banner" width="400" src = "https://github.com/P-I-K-U/P-I-K-U/blob/main/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-i-k-u&label=Profile%20views&color=0e75b6&style=flat" alt="p-i-k-u" /> </p>
 
