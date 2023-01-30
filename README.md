@@ -1,4 +1,4 @@
-![logo](https://github.com/P-I-K-U/P-I-K-U/blob/main/git-banner.png)
+![logo](https://github.com/P-I-K-U/P-I-K-U/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm SURAJ YADAV</h1>
 <h3 align="center">A passionate software developer from Lucknow</h3>
 <image align="right" alt="banner" width="400" src = "https://github.com/P-I-K-U/P-I-K-U/blob/main/full-stack-development.gif">
