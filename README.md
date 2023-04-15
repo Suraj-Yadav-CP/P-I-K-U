@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ksurajyadav2021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UQxAbEO-iDxFGFTHquwMTlmW6olfLzsz/view?usp=share_link](https://drive.google.com/file/d/1UQxAbEO-iDxFGFTHquwMTlmW6olfLzsz/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1KR6KmTTgdirJj7Qw0GnfULMzsM7Hv1YF/view?usp=share_link
 
 - ⚡ Fun fact **I am very fast⚡️**
 
